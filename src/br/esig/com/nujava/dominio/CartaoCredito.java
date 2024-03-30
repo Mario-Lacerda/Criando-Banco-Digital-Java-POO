@@ -13,7 +13,7 @@ import java.util.TimeZone;
  * Data de validade do cartão <p><br />
  * Código de segurança de 3 dígitos <p><br />
  * 
- * @author ario Lacerda
+ * @author Mario Lacerda
  * @since 30/03/24
  * @version 1.0
  */
